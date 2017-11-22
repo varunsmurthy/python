@@ -15,3 +15,8 @@ https://developers.google.com/edu/python/sorting
 
 * A tuple is a fixed size grouping of elements, such as an (x, y) co-ordinate. 
 * Immutable.
+
+### List comprehensions
+
+* listVar = [ expr for var in list ] -- note the lack of a semi-colon.
+* You can add an if test to the right of the for-loop to narrow the result.
