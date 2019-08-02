@@ -9,7 +9,6 @@ def get_dict_value(dict_tuple):
 def get_top_n_words(master_word_count_dict, n):
     top_n_words_list = []
     sorted_input_list = []
-    sorting_pointer = 0;
     for k,v in reversed(sorted(master_word_count_dict.items(), key=get_dict_value)):
         sorted_input_list.append((k,v))
 
