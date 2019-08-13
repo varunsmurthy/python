@@ -1,0 +1,1 @@
+This tutorial follows the book Python for Science book by David Raymond (available at http://kestrel.nmt.edu/~raymond/software/python_notes/index.html)
